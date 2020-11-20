@@ -1,4 +1,8 @@
 #!/usr/bin/env node
+const clearConsole = require('clear-any-console');
+
+clearConsole(); // Clear the console before the output
+
 console.log(`
 Karolína Vyskočilová - WordPress developer
 
