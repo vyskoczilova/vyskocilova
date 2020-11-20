@@ -1,0 +1,7 @@
+{
+    "name": "vyskocilova",
+    "version": "1.0.0",
+    "bin": {
+        "vyskocilova": "index.js"
+    }
+}
