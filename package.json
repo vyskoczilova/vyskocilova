@@ -1,6 +1,6 @@
 {
     "name": "aa-nodecourse-vyskocilova",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Get to know Vyskočilová via `npx aa-nodecourse-vyskocilova`",
     "bin": {
         "vyskocilova": "index.js"
